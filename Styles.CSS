@@ -13,6 +13,17 @@ margin: 100px;
 padding: 10px;
 }
 
+.introduction {
+  background-color: #548CA8;
+}
+
+.main-content {
+  background-color: #476072;
+}
+
+.contact-us {
+  background-color: #334257;
+}
 
 div {
   height: 140px;
